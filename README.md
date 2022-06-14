@@ -1,4 +1,6 @@
-# TwitchTest
+FORKED, I will be trying to modify this repo for adding onto some features I have in mind but first I've got to set it up properly
+I'll make releases when possible!
+# TwitchTest Revisited
 Bandwidth tester for [Twitch](https://twitch.tv/)
 
 ![Screenshot](http://i.imgur.com/7PN13yF.png)
